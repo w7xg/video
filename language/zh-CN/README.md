@@ -2,7 +2,7 @@
 >Hello my friends!
 >Welcome to here
 ## 选择语言
-> English << [Click here](https://w7xg.github.io/video/README.html<br/>
+> English << [Click here](https://w7xg.github.io/video/README.html)<br/>
 > Chinese << Still here<br/>
 > UNKNOWN << [Click here](https://w7xg.github.io/video/language/SS-AA/README.html)<br/>
 ## 密码
