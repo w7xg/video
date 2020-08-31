@@ -6,7 +6,7 @@
 
 ## language chooser
 
->Only for English Still here and Unknown [Click here](https://w7xg.github.io/video/SS-AA/index.html)<br/>
+>Only for English Still here and Unknown [Click here](https://w7xg.github.io/video/language/SS-AA/index.html)<br/>
 
 ## Choose Video
 
