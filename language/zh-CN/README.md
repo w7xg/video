@@ -2,9 +2,9 @@
 >Hello my friends!
 >Welcome to here
 ## 选择语言
-> English << [Click here](https://w7xg.github.io/video/README.html)<br/>
+> English << [Click here](https://github.com/w7xg/video/edit/master/README.md)<br/>
 > Chinese << Still here<br/>
-> UNKNOWN << [Click here](https://w7xg.github.io/video/language/SS-AA/README.html)<br/>
+> UNKNOWN << [Click here](https://github.com/w7xg/video/edit/master/language/SS-AA/README.md)<br/>
 ## 密码
 >可能是 BYUOE
 >可能是 w7xg.github.io
