@@ -3,8 +3,8 @@
 >Welcome to here
 ## language chooser
 > English << Still here<br/>
-> Chinese << [Click here](https://w7xg.github.io/video/language/zh-CN/README.html)<br/>
-> UNKNOWN << [Click here](https://w7xg.github.io/video/language/SS-AA/README.html)<br/>
+> Chinese << [Click here](https://github.com/w7xg/video/language/zh-CN/README.md)<br/>
+> UNKNOWN << [Click here](https://github.com/w7xg/video/language/SS-AA/README.md)<br/>
 ## OUR PASSWORD
 > MAY BE BYUOE
 > MAY BE w7xg.github.io
