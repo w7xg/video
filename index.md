@@ -20,4 +20,6 @@ For World!<br/>
 <iframe width="1036" height="583" src="https://www.youtube.com/embed/yyqU_8mn6N8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
 For Walls!<br/>
 <video src="Videos/Walls/ads.mp4" controls="" width="1036" height="583"></video><br/>
+</center>
+</div>
 <!--end-->
